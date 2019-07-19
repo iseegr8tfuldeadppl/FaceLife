@@ -13,7 +13,7 @@
   go to the Integrations tab and setup the Facebook Messenger integration ([here's a good tutorial](https://www.youtube.com/watch?v=-2hE3YHsuBQ)).
   
   ### Step 3:
-  now you can create intents in the Intent section, name it with your subreddit's name (without the r/ so for example tinder **ALL LOWER CASE**), we're going to use these intents to detect what the user is asking us to deliver, and so create a new intent and add a Training Phrase containing a subreddit (for ex. r/tinder), scrolling down to the Fulfillment section click it & check `Enable Web hook call for this intent`, save and exit.
+  now you can create intents in the Intent section, name it with your subreddit's name (without the r/ so for example tinder **ALL LOWER CASE**), we're going to use these intents to detect what the user is asking us to deliver, and so create a new intent and add a Training Phrase in the Training Phrase section containing a subreddit (for ex. r/tinder) (if the user types this then the intent gets triggered), scrolling down to the Fulfillment section click it & check `Enable Web hook call for this intent`, save and exit.
   
   ### Step 4:
   in the Intents list there's a default Fallback Intent, this intent is run everytime our user has typed anything other than the available subreddits, open it & head down to the answer section and select the "Facebook Messenger" tab, remove whatever is in there & add a new Quick reply, this is a menu that will appear in the chat letting the user choose what to quickly type instead of typing it themselves (works on Free Facebook).
