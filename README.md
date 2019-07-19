@@ -29,7 +29,7 @@
   databaseURL: 'ws://<your firebase database project>.firebaseio.com/',
   ```
   
-  go down below where you find (and do as instructed):
+  go down below where you find (and do as instructed): **ALL LOWER CASE**
   ```
   function niceguys(agent){ return save("niceguys"); }                 // what's between the quotes is the subreddit
   function minecraft(agent){ return save("minecraft"); }               // name, note that i
@@ -101,4 +101,9 @@
   
   then choose which display type do you want to pull the posts from (top posts, new posts, controvertial posts).
   
+  **ALL LOWER CASE**
   and type in your subreddit name (preferably all lower case as when you try to load more pics into existing files in the database with different letter cases it won't be pulled into the same database folder and instead creates a whole new one).
+  
+  
+  # That's it!
+  ## [here's a sample for the chatbot in it's working state](https://www.facebook.com/FaceLife-437256150456258/?ref=settings)
