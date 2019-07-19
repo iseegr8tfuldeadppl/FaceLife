@@ -69,10 +69,14 @@
   
   ### Step 2:
   Download the Python files inside the `filling_the_database_with_posts` file above, for it to run you need:
-    > [Python 3.6.8](https://www.python.org/downloads/release/python-368/).
-    > The PRAW library `pip install praw`.
-    > The firebase_admin library `pip install firebase_admin`.
-    > The time library `pip install time`.
+  
+  >[Python 3.6.8](https://www.python.org/downloads/release/python-368/).
+  
+  >The PRAW library `pip install praw`.
+  
+  >The firebase_admin library `pip install firebase_admin`.
+  
+  >The time library `pip install time`.
 
   ### Step 3:
   open `filling_the_database_with_posts/therealdoodleishere.py` with a text editor and full up the following:
