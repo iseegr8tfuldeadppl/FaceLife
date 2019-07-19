@@ -105,5 +105,5 @@
   and type in your subreddit name (preferably all lower case as when you try to load more pics into existing files in the database with different letter cases it won't be pulled into the same database folder and instead creates a whole new one).
   
   
+  #### This will work for your own Facebook Account only as you're the developer, you must submit your app for a review to be live for the public (usually takes ~30mins).
   # That's it!
-  #### [here's a sample for the chatbot in it's working state (leave a like <3)](https://www.facebook.com/FaceLife-437256150456258/?ref=settings)
