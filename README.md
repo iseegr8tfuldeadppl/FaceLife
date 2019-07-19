@@ -99,7 +99,7 @@
   ```
   you must choose the limit (can't be above 1000 by Reddit limitations).
   
-  then choose which display type do you want to pull the posts from (top posts, new posts, controvertial posts).
+  then choose which display type do you want to pull the posts from (top posts, new posts, controversial posts).
   
   **ALL LOWER CASE**
   and type in your subreddit name (preferably all lower case as when you try to load more pics into existing files in the database with different letter cases it won't be pulled into the same database folder and instead creates a whole new one).
